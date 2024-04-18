@@ -56,4 +56,5 @@ In many programming languages and environments, the use of flags in regex's are 
 Character escapes in regular expressions are sequence of characters that hace a special meaning. Some examples are: (\n: represents a newline character, \t: represents a tab character). In the EmailValidation regex, \w, \. and \d are character escapes.
 
 ## Author
-MahabaHubba is a up and coming coder, learning the arts of full stack development, keen to learn and ready to conquer any obstacle.
+- MahabaHubba is a up and coming coder, learning the arts of full stack development, keen to learn and ready to conquer any obstacle.
+- Github: https://github.com/MahabaHubba 
